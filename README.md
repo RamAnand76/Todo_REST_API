@@ -14,7 +14,7 @@ Todo list built with Django and Django REST Framework. It provides a RESTful API
 1. Clone the repository:
 
    ```shell
-   git clone <repository_url>
+   git clone https://github.com/RamAnand76/Todo_REST_API
    ```
 
 2. Create a virtual environment:
