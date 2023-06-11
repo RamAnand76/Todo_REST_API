@@ -1,7 +1,6 @@
-```
-# Todo List (Task Management System)
+### Todo (Task Management System)
 
-Todo List is a task management system built with Django and Django REST Framework. It provides a RESTful API for managing tasks, allowing users to create, retrieve, update, and delete tasks.
+Todo list built with Django and Django REST Framework. It provides a RESTful API for managing tasks, allowing users to create, retrieve, update, and delete tasks.
 
 ## Features
 
@@ -10,7 +9,7 @@ Todo List is a task management system built with Django and Django REST Framewor
 - Secure token-based authentication using JWT
 - User-friendly API endpoints for interacting with tasks
 
-##Installation
+## Installation
 
 1. Clone the repository:
 
@@ -85,4 +84,5 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 ```
 
-Feel free to customize the content and sections as per your specific project requirements.
+
+
