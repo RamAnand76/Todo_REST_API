@@ -3,3 +3,4 @@ dj-database-url
 gunicorn
 djangorestframework
 whitenoise[brotli]
+decouple
